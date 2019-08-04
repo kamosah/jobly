@@ -10,8 +10,8 @@ To see a live demo: https://the-jobly-app.herokuapp.com/
 
 * Username: admin
 * Password: password
-* ![alt text]
-(https://github.com/kamosah7/jobly/blob/master/images/jobly.gif "Jobly Gif")
+
+![alt text](https://github.com/kamosah7/jobly/blob/master/images/jobly.gif "Jobly Gif")
 
 **To run this repository locally:**
 
