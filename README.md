@@ -32,3 +32,6 @@ To see a live demo: https://the-jobly-app.herokuapp.com/
 
 **Here's a sample of the JSON returned from the backend (a GET to '/jobs'):**
 
+![alt text](https://github.com/kamosah7/jobly/blob/master/images/backend.png "Sample JSON returned from GET to '/jobs'")
+
+Collaborators: https://github.com/colebillys19
