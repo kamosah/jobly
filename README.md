@@ -34,4 +34,8 @@ To see a live demo: https://the-jobly-app.herokuapp.com/
 
 ![alt text](https://github.com/kamosah7/jobly/blob/master/images/backend.png "Sample JSON returned from GET to '/jobs'")
 
+**Here's an Entity Relationship Diagram of the Database Design:**
+![alt text](https://github.com/kamosah7/jobly/blob/master/images/jobly-erd.png "Jobly ERD")
+
+
 Collaborators: https://github.com/colebillys19
